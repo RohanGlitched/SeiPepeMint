@@ -1,0 +1,29 @@
+{
+    "name":"SEI PEPE",
+    "description":"Pepe set to conquer the $SEI scene ! A community who gives back and helps people making $",
+    "website":"https://sei-pepe.vercel.app/",
+    "twitter":"https://twitter.com/SEI_PEPENFT",
+    "discord":"https://discord.gg/t4k3dbfXGy",
+    "rpc":"https://rpc.atlantic-2.seinetwork.io/",
+    "network":"atlantic-2", 
+    "collection_address":"sei1q926r76rcs6cystvet6vnqt9xy0hq8eh0x3ugntu4062x6v8qn4quuwnam", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"OG",
+            "allowlist":[
+                "sei1362f9klypxvm4ge5259z0cec56uetfzfvg9gyd"
+            ] 
+        },
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei1362f9klypxvm4ge5259z0cec56uetfzfvg9gyd",
+                "sei1825cxs5z2th6ks4cacxdxgtpv2sevvru8d4h5k"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
