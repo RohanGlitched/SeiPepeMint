@@ -19,7 +19,7 @@ import MintedModal from "components/mintedModal"
 import axios from "axios"
 
 const LIGHTHOUSE_CONTRACT_ATLANTIC_2 = "sei12gjnfdh2kz06qg6e4y997jfgpat6xpv9dw58gtzn6g75ysy8yt5snzf4ac"
-const LIGHTHOUSE_CONTRACT_PACIFIC_1 = "sei1hjsqrfdg2hvwl3gacg4fkznurf36usrv7rkzkyh29wz3guuzeh0snslz7d"
+const LIGHTHOUSE_CONTRACT_PACIFIC_1 = "sei1825cxs5z2th6ks4cacxdxgtpv2sevvru8d4h5k"
 
 const getLighthouseContract = (network: string) => {
     if (network === "pacific-1") {
